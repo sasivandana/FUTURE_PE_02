@@ -1,0 +1,14 @@
+Write 3 Instagram captions for a skincare UGC ad.
+
+Product:
+Acne serum
+
+Instructions:
+
+* Add emotion
+* Include CTA
+* Add 5 hashtags
+* Keep it natural
+
+Output:
+3 captions
