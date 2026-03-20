@@ -1,0 +1,24 @@
+You are a UGC creator writing Instagram Reel ads.
+
+Write a 20–25 second script.
+
+Product:
+Acne serum (GlowSkin Co.)
+
+Target Audience:
+Students with acne issues
+
+Structure:
+Hook → Problem → Solution → Experience → CTA
+
+Instructions:
+
+* Sound like a real person
+* Add emotional journey
+* Keep it short
+* Avoid formal tone
+
+Output:
+Hook:
+Script:
+CTA:
