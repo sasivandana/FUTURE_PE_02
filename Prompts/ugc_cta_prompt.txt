@@ -1,0 +1,13 @@
+Generate 10 CTA lines for a skincare ad.
+
+Product:
+Acne serum
+
+Instructions:
+
+* Short and action-based
+* Not pushy
+* Suitable for Reels ads
+
+Output:
+List of CTAs
