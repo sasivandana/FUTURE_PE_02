@@ -1,0 +1,21 @@
+Generate 3 versions of the same UGC ad script.
+
+Product:
+Acne serum
+
+Tones:
+
+1. Casual
+2. Emotional
+3. Informative
+
+Instructions:
+
+* Keep same idea
+* Change tone
+* Keep each under 25 seconds
+
+Output:
+Variation 1:
+Variation 2:
+Variation 3:
