@@ -1,0 +1,24 @@
+You are a UGC ad copywriter for a D2C skincare brand.
+
+Generate 12 high-converting hooks.
+
+Product:
+Acne control serum
+
+Target Audience:
+Students with acne-prone skin
+
+Instructions:
+
+* Keep it natural and relatable
+* Avoid salesy words
+* Use emotions (frustration, surprise, relief)
+* Keep each hook under 10 words
+* Mix:
+
+  * Problem hooks
+  * Question hooks
+  * Curiosity hooks
+
+Output:
+Numbered list of hooks.
